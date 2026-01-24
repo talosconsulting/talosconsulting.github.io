@@ -20,9 +20,9 @@ author: Talos Consulting LLC
 ###############################################
 
 navbar-links:
-  About Us: "aboutme"
+  Who we are: "about"
   Benefits: "benefits"
-  Contact Us: "contactus"
+  Let's build something: "contact"
 
 ################
 # --- Logo --- #
@@ -137,7 +137,8 @@ navbar-var-length: false
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+# hover-col: "#0085A1"
+hover-col: "#CD7F32"
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
