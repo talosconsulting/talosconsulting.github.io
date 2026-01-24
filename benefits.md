@@ -18,7 +18,8 @@ Your well-being shouldn't have a price tag:
 * Total Coverage: 100% company-funded Dental (Delta Dental) and Vision (Anthem). 😁+🤓
 
 ## Uncompromising Growth & Balance ⚖️
-* 5.5 Weeks PTO: We work hard, but we reset harder. Take the time you need. ✈︎
-* $4,000 Annual Training Budget: A dedicated budget and 40 hours of paid leave to sharpen your technical tradecraft. 🥷
-* $1,500 Tech Stipend: New gear every two years. We want you working on the best hardware available. 💻
-* $5,000 Referral Bonus: Grow the team and get paid. 🤑
+Everyone requires scheduled downtime. We offer a benefits package designed to ensure you’re as rested as you are rewarded:
+* **5.5 Weeks PTO**: We work hard, but we reset harder. Take the time you need. ✈︎
+* **$4,000 Annual Training Budget**: A dedicated budget and 40 hours of paid leave to sharpen your technical tradecraft. 🥷
+* **$1,500 Tech Stipend**: New gear every two years. We want you working on the best hardware available. 💻
+* **$5,000 Referral Bonus**: Grow the team and get paid. 🤑
