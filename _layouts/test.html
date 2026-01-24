@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: base
 ---
 
 {% include header.html type="page" %}
@@ -13,8 +13,9 @@ layout: test
             {% include {{ file }} %}
           {% endfor %}
         </div>
+      <br><br><br>
       {% endif %}
-
+      
       {{ content }}
 
       {% if page.after-content %}
