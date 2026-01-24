@@ -2,11 +2,9 @@
 layout: base
 ---
 
-<br><br><br>
-
 {% include header.html type="page" %}
 
-<br><br><br>
+<br><br><br><br><br>
 
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   <div class="row">
@@ -17,7 +15,6 @@ layout: base
             {% include {{ file }} %}
           {% endfor %}
         </div>
-      <br><br><br>
       {% endif %}
       
       {{ content }}
