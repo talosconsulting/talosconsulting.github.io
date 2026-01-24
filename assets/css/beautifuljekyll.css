@@ -20,7 +20,7 @@ layout: null
 
   /* common CSS variables */
   --body-font: 'Montserrat', sans-serif;
-  --header-font: --body-font: 'Montserrat', sans-serif;
+  --header-font: 'Montserrat', sans-serif;
   --mid-col: #808080;
 }
 
