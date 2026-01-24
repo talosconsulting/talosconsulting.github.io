@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who we are
+title: Benefits
 subtitle: Led by engineers, driven by results.
 ---
 ## Invested in You. 🚀
